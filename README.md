@@ -1,6 +1,3 @@
-Neste repositório, foi utilizado um dataset, cujo link para download foi obtido do kaggle, onde o dataset contém os delitos praticados em NY no ano de 2020. 
-
-
 [dataset NY] https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
 Utilizando o link está acima, baixei o dataset que faz referência as prisões em NYC desde 2006 até o ano de 2020.
