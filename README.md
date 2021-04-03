@@ -4,7 +4,7 @@ Utilizando o link está acima, baixei o dataset que faz referência as prisões 
 
 A partir do mesmo, foi feito uma preparação e exploração dos dados, utilizando bibliotecas como Pandas, Numpy, Datetime, Seaborn e então geradas algumas visualizações.
 
-Após os dados estarem preparados, os datset foi testado com alguns algoritmos de classificação da biblioteca Sciki-learn.
+Após os dados estarem preparados, foram testados alguns algoritmos de classificação da biblioteca Sciki-learn.
 
 O objetivo:
  - por meio dos dados fornecidos, encontrar um melhor algoritmo de classificação, para que a partir dos dados de entrada classificar possíveis regiões mais propícias a ocorrencia de assaltos.
