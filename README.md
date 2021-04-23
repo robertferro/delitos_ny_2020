@@ -1,6 +1,6 @@
 [dataset NY] https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
-Por meio da API que está disponível no link acima, obtive dados referentess série histórica de delitos praticados na cidade de Nova York, desde 2006 até o ano de 2019.
+Por meio da API que está disponível no link acima, obtive dados referentes a série histórica de delitos praticados na cidade de Nova York, desde 2006 até o ano de 2019.
 
 Foi feito uma preparação e exploração dos dados,  utilizando bibliotecas como Pandas, Numpy, Datetime, Seaborn e então geradas algumas visualizações.
 
