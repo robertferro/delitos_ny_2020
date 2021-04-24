@@ -4,7 +4,7 @@ Por meio da API que está disponível no link acima, obtive dados referentes a s
 
 Foi feito uma preparação e exploração dos dados,  utilizando bibliotecas como Pandas, Numpy, Datetime, Seaborn e então geradas algumas visualizações.
 
-Com os dados estarem pré-processados, foram testados alguns algoritmos de classificação da biblioteca Scikit-learn e também a biblioteca XGBoost.
+Após um pré-processamento dos dados, foram testados alguns algoritmos de classificação da biblioteca Scikit-learn e também a biblioteca XGBoost.
 
 O objetivo:
  - por meio dos dados fornecidos, encontrar um melhor algoritmo de classificação, para que a partir dos dados de entrada classificar possíveis regiões mais propícias a ocorrencia de assaltos.
