@@ -8,4 +8,4 @@ Após um pré-processamento dos dados, foram testados alguns algoritmos de class
 
 O objetivo:
  - por meio dos dados fornecidos, encontrar um melhor algoritmo de classificação, para que a partir dos dados de entrada classificar possíveis regiões mais propícias a ocorrencia de assaltos.
- - Criar uma aplicação WEB com o modelo desenvolvido.
+
