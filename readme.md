@@ -2,14 +2,12 @@ Fonte dos dados utilizados no projeto: https://data.cityofnewyork.us/Public-Safe
 
 Link do artigo no medium: https://robertthiagodesousaferro.medium.com/usando-machine-learning-para-prever-assaltos-em-nova-york-29569c46bf95
 
-#Problema :
+# Problema :
  - Reduzir a quantidade de crimes de assaltos na cidade de *New York*
 
+# Solução :
 
-
-**Resumo**
-
-Neste projeto, foi feito a coleta dos dados referentes as delitos praticados na cidade de *New York* por meio de uma  *API(sodapy)*, onde foi possível extrair os registros referentes a diferentes tipos de delitos praticados entre os anos de 2006 até o ano de 2019, com o objetivo final de fazer a previsão dos crimes de assalto de acordo com os dados fornecidos. 
+ - Neste projeto, foi feito a coleta dos dados referentes as delitos praticados na cidade de *New York* por meio de uma  *API(sodapy)*, onde foi possível extrair os registros referentes a diferentes tipos de delitos praticados entre os anos de 2006 até o ano de 2019, com o objetivo final de fazer a previsão dos crimes de assalto de acordo com os dados fornecidos. Ao final do projeto foi desenvolvido um modelo de *Machine learning* capaz de reduzir em até 62% os crimes de assalto.
 
 No repositório existem 3 diretórios,**Coleta e tratamento de dados**, ***EDA***, ***Machine Learning***:
 
