@@ -9,6 +9,7 @@ Neste projeto, foi feito a coleta dos dados referentes as delitos praticados na 
 No repositório existem 3 diretórios,**Coleta e tratamento de dados**, ***EDA***, ***Machine Learning***:
 
 **Coleta e tratamentode dados**
+
 Nesta primeira etapa, após ser feito a requisição dosdados por meio da *API sodapy*, os dados foram preparados, com a exclusão de registros incompletos, informaçoes que não seriam necessárias para o projeto e foi feito um primeiro pré-processamento, removendovalores ausentes e criando algumass variáveis.
 Foram utilizadas bibliotecas como *Pandas, Numpy, Datetime*.
 
