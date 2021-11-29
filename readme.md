@@ -2,7 +2,7 @@ Fonte dos dados utilizados no projeto: https://data.cityofnewyork.us/Public-Safe
 
 Link do artigo no medium: https://robertthiagodesousaferro.medium.com/usando-machine-learning-para-prever-assaltos-em-nova-york-29569c46bf95
 
-**#Problema**:
+#**Problema**:
  - Reduzir a quantidade de crimes de assaltos na cidade de *New York*
 
 
